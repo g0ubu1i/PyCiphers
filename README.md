@@ -5,9 +5,11 @@
 ## 🔧 已实现的算法
 
 - RSA
+- ElGamal
 
 ## 📝 TodoList
 
 - [X]  RSA算法实现
+- [X]  ElGamal算法实现
 - [ ]  DES算法实现
 - [ ]  AES算法实现
